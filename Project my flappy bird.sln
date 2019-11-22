@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project my flappy bird", "Project my flappy bird.vcxproj", "{3A680EC1-3A58-4926-BD35-94F6A804E08D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A680EC1-3A58-4926-BD35-94F6A804E08D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3A680EC1-3A58-4926-BD35-94F6A804E08D}.Debug|Win32.Build.0 = Debug|Win32
+		{3A680EC1-3A58-4926-BD35-94F6A804E08D}.Release|Win32.ActiveCfg = Release|Win32
+		{3A680EC1-3A58-4926-BD35-94F6A804E08D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
